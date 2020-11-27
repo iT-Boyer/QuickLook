@@ -15,3 +15,8 @@ defaults write io.github.norio-nomura.qlplayground HighlightStyle dark
 xattr -cr ~/Library/QuickLook/QLStephen.qlgenerator
 qlmanage -r
 qlmanage -r cache
+
+https://zhuanlan.zhihu.com/p/137655848
+ibrew cask install qlcolorcode
+ibrew install lua luarocks highlight
+ibrew info qlcolorcode
