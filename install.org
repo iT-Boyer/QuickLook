@@ -25,3 +25,4 @@ ibrew info qlcolorcode
 查看配置
 defaults read org.n8gray.QLColorCode
 重置配置
+defaults delete org.n8gray.QLColorCode
