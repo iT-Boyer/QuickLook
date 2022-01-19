@@ -1,0 +1,8 @@
+cask "provisionql"
+cask "qlcolorcode"
+cask "qlimagesize"
+cask "qlmarkdown"
+cask "qlmobi"
+cask "qlplayground"
+cask "qlstephen"
+cask "quicklook-json"
