@@ -17,9 +17,9 @@ qlmanage -r
 qlmanage -r cache
 
 https://zhuanlan.zhihu.com/p/137655848
-ibrew cask install qlcolorcode
-ibrew install lua luarocks highlight
-ibrew info qlcolorcode
+brew cask install qlcolorcode
+brew install lua luarocks highlight
+brew info qlcolorcode
 
 # 配置
 查看配置
